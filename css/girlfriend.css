@@ -1,0 +1,81 @@
+.header{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(191, 191, 247);
+    color: white
+}
+
+body{
+    background-color: lavender;
+}
+
+.main-body{
+    top: 60px;
+    width: 100%;
+    bottom: 60px;
+    overflow-y: scroll;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(80, 177, 216);
+    text-align: center;
+
+}
+
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+    margin: 10px;
+}
+
+.smallimage{
+    width: 250px;
+    display: block;
+    position: center;
+    margin: auto;
+
+}
+
+.centered-list{
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(80, 177, 216);
+    padding-bottom: 50px;
+}
+
+.li{
+    margin: 10px;
+}
+
+.h1{
+    margin: 30px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(80, 177, 216);
+}
+
+.youtubevideo{
+    display: block;
+    position: center;
+    margin: auto;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 300px;
+    padding-top: 30px; 
+    height: 0;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.yeet{
+    font-style: italic;
+    color: rgb(191, 191, 247);
+    padding-bottom: 20px;
+}

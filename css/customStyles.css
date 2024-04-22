@@ -1,0 +1,19 @@
+.bg-primary{
+    background-color: rgb(4, 174, 174) !important;
+}
+
+a{
+    color: rgb(0, 119, 255);
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.skillslist{
+    font-size: 20px;
+    margin-bottom: \em;
+    margin-top: 0;
+    font-weight: 500;
+    line-height: 1.2;
+}
